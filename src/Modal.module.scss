@@ -1,0 +1,10 @@
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  background-color: white;
+
+  &__content {
+    background-color: red;
+  }
+}
